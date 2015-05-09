@@ -1,0 +1,16 @@
+<package>
+  <name>ardrone_joystick_catkin_package</name>
+  <description> ardrone_joystick package for use with the ROS catkin build system </description>
+  <author>Nikolas Engelhard</author>
+  <maintainer email="rme_2001@hotmail.com">Martin Elberts</maintainer>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/ardrone_joystick</url>
+  <buildtool_depend>catkin</buildtool_depend>
+  <depend package="sensor_msgs"/>
+  <depend package="geometry_msgs"/>
+  <depend package="roscpp"/>
+  <depend package="std_srvs"/>
+</package>
+
+
