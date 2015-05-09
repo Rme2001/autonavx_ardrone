@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8.3)
-project(ardrone_joystick)
+project(ardrone_joystick_catkin_package)
 
 find_package(catkin REQUIRED COMPONENTS roscpp sensor_msgs std_srvs geometry_msgs)
 catkin_package(
